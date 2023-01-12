@@ -1,0 +1,9 @@
+"D:\Program Files\JetBrains\CLion 2021.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Program Files/JetBrains/CLion 2021.3/bin/ninja/win/ninja.exe" -G Ninja E:\Project\C
+CMake Error at CMakeLists.txt:6 (add_executable):
+  The target name "瀛︾敓绠＄悊绯荤粺-鍗曢摼琛�.c" is reserved or not valid
+  for certain CMake features, such as generator expressions, and may result
+  in undefined behavior.
+
+
+-- Configuring incomplete, errors occurred!
+See also "E:/Project/C/cmake-build-debug/CMakeFiles/CMakeOutput.log".
